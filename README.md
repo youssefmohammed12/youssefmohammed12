@@ -19,8 +19,8 @@ Every project includes mobile-friendly design and clear, honest communication fr
 ## Featured work
 
 - **[Launchboard](https://github.com/youssefmohammed12/Launchboard)** — opportunity & application tracker. React + TypeScript front-end, Express API, real accounts and database. [Live demo](https://launchboard-drab.vercel.app)
-- **[NOVA Home](https://github.com/youssefmohammed12/Nova)** — full e-commerce store for the Egyptian market: catalogue, cart, wishlist, Cash on Delivery checkout and a complete admin portal. PHP & MySQL.
-- **[HealthBridge](https://github.com/youssefmohammed12/hospital-project)** — healthcare management system with admin, doctor and patient roles, secure role-based access and audit logging. PHP, MySQL/MariaDB & PDO.
+- **[NOVA Home](https://github.com/youssefmohammed12/Nova)** — full e-commerce store for the Egyptian market: catalogue, cart, wishlist, Cash on Delivery checkout and a complete admin portal. PHP & MySQL. [Live store](https://nova-home.fast-page.org/) · [Admin demo](https://nova-home.fast-page.org/admin/login.php)
+- **[HealthBridge](https://github.com/youssefmohammed12/hospital-project)** — healthcare management system with admin, doctor and patient roles, secure role-based access and audit logging. PHP, MySQL/MariaDB & PDO. [Live demo](https://youssefhealthbridge.freehosting.dev/)
 - **[Flowly](https://github.com/youssefmohammed12/Flowly)** — polished SaaS landing page with accessible, interactive UI. [Live site](https://youssefmohammed12.github.io/Flowly/)
 
 Full portfolio: [youssefmohammed12.github.io/my-portfolio-website](https://youssefmohammed12.github.io/my-portfolio-website/)
